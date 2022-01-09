@@ -1,1 +1,1 @@
-This is marked my start of Bioinformatics.
+This is marked my start of Bioinformatics. Good luck!
